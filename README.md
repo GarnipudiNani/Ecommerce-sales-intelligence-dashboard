@@ -2,7 +2,7 @@
 
 ## Dashboard Overview
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png_(2))
 
 ---
 
